@@ -7,6 +7,6 @@ import com.alibaba.dubbo.config.annotation.Service;
 public class UserviceImpl implements UserService {
     @Override
     public String getName() {
-        return "itheima";
+        return "hello java,hello idea!";
     }
 }
